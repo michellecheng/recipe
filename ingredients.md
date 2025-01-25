@@ -9,3 +9,5 @@ Sugar
 Cooking wine
 
 Sesame Oil
+
+Ginger slice
