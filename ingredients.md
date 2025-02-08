@@ -1,3 +1,5 @@
+Let's begin!
+
 Chicken broth
 
 Garlic powder
@@ -11,3 +13,5 @@ Cooking wine
 Sesame Oil
 
 Ginger slice
+
+Enjoy my recipe!
