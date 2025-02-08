@@ -8,4 +8,6 @@ mcheng37
 
 last line changed locally
 
+Step 8 (Optional) Aborting the merge conflict. [REMOTE]
+
 ### This is a REMOTE change :O
