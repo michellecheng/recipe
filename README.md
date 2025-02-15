@@ -1,11 +1,15 @@
-### This is a LOCAL change :)
+# Fancy Recipe (This is Header 1)  
 
-# recipe
-line 2 changed remotely
-Wonton soup recipe for Assignment 3: https://www.recipetineats.com/wonton-soup/
+## **Recipe Updated** - February 15, 2025 (This is Bold text)  
 
-mcheng37
+### Summary (This is Header 3)
 
-last line changed locally
+Here is an unordered list
+- added fancy recipe readme  
+  This is for Assignment 5
+- line 2 changed remotely  
+- Wonton soup recipe for Assignment 3: https://www.recipetineats.com/wonton-soup/
 
-### This is a REMOTE change :O
+![Image of wonton soup](recipe.jpg)
+
+*Updated by*: mcheng37
